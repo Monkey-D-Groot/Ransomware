@@ -1,2 +1,0 @@
-c:\users\roadt\documents\visual studio 2012\Projects\Ransomware\Ransomware\bin\Debug\Ransomware.exe.config
-c:\users\roadt\documents\visual studio 2012\Projects\Ransomware\Ransomware\bin\Debug\Release.exe.config
